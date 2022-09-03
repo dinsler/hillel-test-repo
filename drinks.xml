@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<drinks>
+    <drink>
+       <title>Сappuccino</title>
+	   <price>25</price>
+	   <vegan>false</vegan>
+	   <size>M</size>
+	</drink>
+	<drink>
+       <title>Latte</title>
+	   <price>29</price>
+	   <vegan>false</vegan>
+	   <size>L</size>
+	</drink>    
+	<drink>
+       <title>Matcha</title>
+	   <price>30</price>
+	   <vegan>true</vegan>
+	   <size>S</size>
+	</drink>    
+	<drink>
+       <title>Water</title>
+	   <price>10</price>
+	   <vegan>true</vegan>
+	   <size>XL</size>
+	</drink>    
+	<drink>
+       <title>Smoothie</title>
+	   <price>35</price>
+	   <vegan>false</vegan>
+	   <size>XXL</size>
+	</drink>
+</drinks>

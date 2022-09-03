@@ -1,0 +1,11 @@
+{
+"titles": [
+    {"name":"Сappuccino","price": 25, "vegan": false, "size": "M"},
+{"name":"Latte","price": 29, "vegan": false, "size": "L"},
+{"name":"Matcha","price": 30, "vegan": true, "size": "S"},
+{"name":"Water","price": 10, "vegan": true, "size": "XL"},
+{"name":"Smoothie","price": 35, "vegan": false, "size": "XXL"}
+
+]
+
+}
